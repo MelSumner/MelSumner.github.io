@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  Opinionated but ultimately pragmatic, Melanie Sumner has been enthusiastically building
  for the web since 1997.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: https://melsumner.github.io # the base hostname & protocol for your site, e.g. http://example.com
-domain: melsumner.github.io # if you want to force HTTPS, specify the domain without the http at the start
+#url: https://melsumner.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+#domain: melsumner.github.io # if you want to force HTTPS, specify the domain without the http at the start
 permalink: /:title
 twitter_username: a11yMel
 github_username:  melsumner
