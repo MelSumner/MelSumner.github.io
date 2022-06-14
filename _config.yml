@@ -19,26 +19,24 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Just Melanie From The Internet
+author: Melanie Sumner
 email: melsumner@fastmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Opinionated but ultimately pragmatic, Melanie Sumner has been enthusiastically building
- for the web for the past 25 years.
+ for the web since 1997.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://melsumner.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: melsumner.github.io # if you want to force HTTPS, specify the domain without the http at the start
 permalink: /:title
 twitter_username: a11yMel
 github_username:  melsumner
+picture: /assets/images/melsumner.png
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-mentions
-
-jekyll-mentions:
-  base_url: https://twitter.com  
-
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
