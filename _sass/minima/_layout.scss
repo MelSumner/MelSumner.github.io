@@ -223,6 +223,7 @@
 
 .post-title {
   @include relative-font-size(2.625);
+  font-family: $base-font-serif;
   letter-spacing: -1px;
   line-height: 1;
 
