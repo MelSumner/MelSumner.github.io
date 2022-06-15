@@ -4,9 +4,9 @@ title:  "Anniversaries, perfection, and other things"
 slug: anniversaries-perfection-other-things
 ---
 
-Well, here we are. Or rather, here I am. Today marks the 25th year of my first foray into building something for the internet. Happy web-versary to me!
+Today marks the 25th year of my first foray into building something for the internet. Happy web-versary to me!It seems like forever ago, but it also seems like just yesterday. I suppose this is the nature of how time passes, or feels like it happens. If you are focusing on it then it doesn't seem like any time has passed at all, but if you ignore it for a bit it just flies by.
 
-It seems like forever ago, but it also seems like just yesterday. I suppose this is the nature of how time passes, or feels like it happens. If you are focusing on it then it doesn't seem like any time has passed at all, but if you ignore it for a bit it just flies by.
+<!--more-->
 
 I have avoided blogging in any meaningful way; it has never been a nice experience, being a woman on the internet. Now, though, I am old enough not to really care, and young enough to still remember the things that have happened and want to write them down.
 
