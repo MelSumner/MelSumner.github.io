@@ -101,7 +101,7 @@ So this spec makes it really clear but the implementation in the browser- the de
 
 According to HTML spec and ARIA spec, things should be a-okay, which makes me think that it was the implementation that was not done correctly. 
 
-## What really happens
+### What really happens
 
 Consider this code:
 
