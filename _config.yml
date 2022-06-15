@@ -31,6 +31,7 @@ permalink: /:title
 twitter_username: a11yMel
 github_username:  melsumner
 picture: /assets/images/melsumner.png
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
