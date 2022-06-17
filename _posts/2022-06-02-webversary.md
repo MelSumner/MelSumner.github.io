@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The web is awesome, the web is horrible"
+title:  "The Web is Awesome, the Web is Horrible"
 slug: web-awesome-horrible
 ---
 
