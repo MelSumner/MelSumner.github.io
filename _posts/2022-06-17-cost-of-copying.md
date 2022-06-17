@@ -4,9 +4,7 @@ title:  "The Cost of Copying Design"
 slug: cost-of-copying
 ---
 
-They say that you can tell an experienced developer because when you ask them a question about how they would approach or solve a specific problem, their answer will be, "it depends." 
-
-However, if a designer were to ask me if they would be okay to design a component in a certain way-- just like Twizonple does it-- my response is probably going to be "I'll look at it, but it's unlikely. What features do you like best about it?"
+They say that you can tell an experienced developer because when you ask them a question about how they would approach or solve a specific problem, their answer will be "it depends." These days, if a designer were to ask me if it would be okay to design a component in a certain way (_"just like Twizonple does it"_), my response is probably going to be "I'll look at it, but it's unlikely since they are well-known for inaccessible design. Out of curiosity, what features do you like best about it?"
 
 <!--more-->
 
@@ -15,7 +13,7 @@ It's likely that Twizonple has implemented something that does not conform to ac
 The challenges that come after saying "I'm so sorry, but we can't, it's not accessible", then, are two-fold: 
 
 1. The annoyed colleague. Super-mega-famous tech company does it so it should be okay for us to do it too, and why are you being so stubborn about accessibility, can't you just be more flexible?!
-2. Users are trained more and more on these Twizonple sites, so if you've done something different, you might have to then provide more support so your users know how to work with _your_ site (even if it's correct).
+2. Users are "trained" more and more on these Twizonple sites simply through frequent usage. So if you've done something different, you might have to then provide more support so your users know how to work with _your_ site (even if it's correct).
 
 Lately, however, it's been super useful for me to ask "what features do you like best about it," because that gives me something to work with. We can review the component (that already exists) and talk about what accessibility issues it might have. For example, what if they have elements that are made to appear on mouse hover, but not appear if the user is navigating with only a keyboard? Not only is it a failure of the [Keyboard WCAG Success Criteria](https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html), but it will actively train users to expect the poorer user experience and replace their definition of what "default behavior" should be. Spending a little extra time to evaluate the desired pattern and if possible, improve it for accessibility, seems like the right amount of collaboration. A good solution solves for all of the criteria; if your solution doesn't, then you haven't finished designing the right solution yet (and that's okay)! 
 
