@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Details-as-a-menu"
+title:  "Details-As-A-Menu"
 slug: details-as-a-menu
 ---
 
