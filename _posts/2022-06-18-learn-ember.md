@@ -4,7 +4,9 @@ title:  "How to Learn Ember"
 slug: how-to-learn-ember
 ---
 
-I get asked this question enough that I have the answer saved to a file so I can copy/paste it. I think I'll post it here, that way anyone can benefit from it. 
+I get asked this question enough that I have the answer saved to a file so I can copy/paste it. I think I'll post it here, that way anyone can benefit from it.
+
+<!--more-->
 
 ## The Standard List of Resources
 
