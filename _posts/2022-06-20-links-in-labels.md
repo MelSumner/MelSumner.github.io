@@ -2,6 +2,7 @@
 layout: post
 title:  "Links in Labels"
 slug: links-labels
+updated: 2022-06-20
 ---
 
 It seems to be a relatively common pattern to have links in labels, but is that accessible? In this article, I'll explain what's going on, and explore some options, see how they work with a screen reader, and (hopefully) provide some food for thought. 
