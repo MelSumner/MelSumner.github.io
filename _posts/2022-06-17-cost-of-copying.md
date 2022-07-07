@@ -2,6 +2,7 @@
 layout: post
 title:  "The Cost of Copying Design"
 slug: cost-of-copying
+updated: 2022-06-17
 ---
 
 They say that you can tell an experienced developer because when you ask them a question about how they would approach or solve a specific problem, their answer will be "it depends." These days, if a designer were to ask me if it would be okay to design a component in a certain way (_"just like Twizonple does it"_), my response is probably going to be "I'll look at it, but it's unlikely since they are well-known for inaccessible design. Out of curiosity, what features do you like best about it?"
@@ -59,3 +60,5 @@ Ok, back to the list. The list should be relevant to your team and what your tea
 I want to specifically note that these lists (design systems, sites, authors, etc) should be kept pretty short; you're not trying to evaluate absolutely everyone for everything. This document becomes the _example_ for how to evaluate a reference or resource for the scope of your product and the needs of your team. It gives examples of things to be on the lookout for. By providing this resource to our teams, we can become a force-multiplier since teams can then learn how to give their own evaluations and provide the same types of examples. We participate in our own success, instead of accepting the defeatist mindset of "everyone else does it" or worse, [not-invented-here (NIH) syndrome](https://en.wikipedia.org/wiki/Not_invented_here).
 
 There will always be some cost associated with copying design, but it does not have to be so catastrophic as to be avoided all together. With some sensible and relevant guidance in place, we can improve both our internal process and our personal craft. Seems like a win-win!
+
+Until next time. -M
