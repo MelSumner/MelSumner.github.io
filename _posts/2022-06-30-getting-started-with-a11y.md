@@ -12,7 +12,7 @@ Because that would totally not be cool. Not you? Great! Let's dig in.
 
 First, let's make some introductions: how about an [intro to accessibility](https://a11y-intro.com/) to get you started?
 
-## Pay Experts for their Expertise
+## Pay Experts for Their Expertise
 
 Deeply understanding and implementing accessibility practices across business, design, and engineering takes many years of practice, learning, and the kind of expertise that only comes from, well, experience. If you really want to build a successfull accessibility program at your company, pay experts for their time. Ideally, create a Director of Accessibility position and hire a well-known accessibility consultant to interview potential candidates for it. No one at your company will have any idea of how to do this, which is why I recommend it. "We want to make accessible products" is a well-intentioned refrain, but once the reality sets in for just how difficult it is, there's a whole extra layer of difficulties that arise. I say this as the once glowing-with-happiness new hire who was so excited that the new company "really wanted to make accessible products" but as it turned out, wanted WCAG conformance so they could sell their product to California and the EU. 
 
