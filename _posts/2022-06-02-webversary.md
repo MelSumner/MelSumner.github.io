@@ -2,7 +2,6 @@
 layout: post
 title:  "The Web is Awesome, the Web is Horrible"
 slug: web-awesome-horrible
-date: 2022-06-02
 updated: 2022-06-14
 ---
 
