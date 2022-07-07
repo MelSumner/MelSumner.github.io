@@ -2,6 +2,8 @@
 layout: post
 title:  "The Web is Awesome, the Web is Horrible"
 slug: web-awesome-horrible
+date: 2022-06-02
+updated: 2022-06-14
 ---
 
 Today marks the 25th year of my first foray into building something for the internet. Happy web-versary to me! It seems like forever ago, but it also seems like just yesterday. I suppose this is the nature of how time passes, or feels like it happens. If you are focusing on it then it doesn't seem like any time has passed at all, but if you ignore it for a bit it just flies by.
