@@ -11,14 +11,14 @@ It seems to be a relatively common pattern to have links in labels, but is that 
 
 ## The Common Pattern
 
-The form code below shows a common pattern for presenting the user with a required action: tick a checkbox to indicate that they have read, and accept, the terms and conditions (noting that the link would contain a real URL if this were live code): 
+The form code below shows a common pattern for presenting the user with a required action: tick a checkbox to indicate that they have read, and accept, the terms and conditions (**noting that the link would contain a real URL if this were live code**): 
 
 ```html
 <form action="" method="" name="form-zero">
   <input type="checkbox" id="terms" name="terms" required />
   <label for="terms">
     I have read and accept the 
-    <a href="#">
+    <a href="#" target="_blank">
       terms and conditions
     </a>.
   </label>
