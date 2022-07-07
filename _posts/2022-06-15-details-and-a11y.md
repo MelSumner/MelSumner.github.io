@@ -2,6 +2,7 @@
 layout: post
 title:  "Details-As-A-Menu"
 slug: details-as-a-menu
+updated: 2022-06-15
 ---
 
 A few months back, I had to work on a situation where the `details` element was being used as a dropdown menu for a site navigation. In this post, I'm going to explain why I think you should **not** use a `details` element as a dropdown menu. TL;DR? Don't use the `<details>` element for a dropdown menu, use a `<button>` element that toggles open a list of links instead.
