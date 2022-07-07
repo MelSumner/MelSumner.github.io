@@ -2,6 +2,7 @@
 layout: post
 title: "Getting Started With Accessibility"
 slug: getting-started-with-accessibility
+updated: 2022-06-30
 ---
 
 This article is meant to be a practical guide to answer the question, "how do we get started with accessibility?" This is based on my own experience, but that's a lot of experience, so it's probably sufficient for unpaid advice. Hopefully you found this because you're interested in building an accessibility practice at your company, and not just because you asked accessibility experts to give you their time (without compensation).
@@ -74,5 +75,3 @@ Also, take some time to learn about the existing experts in the space of web des
 Just don't ask for free spec work. It's unethical and there's enough of that in the world, don't add to it.
 
 Until next time. -M
-
-
