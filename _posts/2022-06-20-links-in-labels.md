@@ -16,7 +16,12 @@ The form code below shows a common pattern for presenting the user with a requir
 ```html
 <form action="" method="" name="form-zero">
   <input type="checkbox" id="terms" name="terms" required />
-  <label for="terms">I have read and accept the <a href="#">terms and conditions</a>.</label>
+  <label for="terms">
+    I have read and accept the 
+    <a href="#">
+      terms and conditions
+    </a>.
+  </label>
   <button type="submit">Submit</button>
 </form>
 ```
@@ -39,8 +44,14 @@ Let's try help text. To associate the link as help text for the `input`, use the
 ```html
 <form action="" method="" name="form-one">
   <input type="checkbox" id="terms-form-one" name="terms" aria-describedby="terms-help" required />
-  <label for="terms-form-one">I have read and accept the terms and conditions</label>
-  <div class="help-text" id="terms-help"><a href="#" target="_blank">(read the terms and conditions)</a></div>
+  <label for="terms-form-one">
+    I have read and accept the terms and conditions
+  </label>
+  <div class="help-text" id="terms-help">
+    <a href="#" target="_blank">
+      (read the terms and conditions)
+    </a>
+  </div>
 
   <button type="submit">Submit</button>
 </form>
@@ -55,9 +66,13 @@ Maybe I can use the `fieldset` and `legend` elements to improve this pattern. It
 ```html
 <form action="" method="" name="form-two">
   <fieldset>
-    <legend><a href="#" target="_blank">Terms and Conditions</a></legend>
+    <legend>
+      <a href="#" target="_blank">Terms and Conditions</a>
+    </legend>
     <input type="checkbox" id="terms-form-two" name="terms" required />
-    <label for="terms-form-two">I have read and accept the terms and conditions</label>
+    <label for="terms-form-two">
+      I have read and accept the terms and conditions
+    </label>
   </fieldset>
   <button type="submit">Submit</button>
 </form>
