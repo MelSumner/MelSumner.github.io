@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Learn Ember"
 slug: how-to-learn-ember
+updated: 2022-06-18
 ---
 
 I get asked this question enough that I have the answer saved to a file so I can copy/paste it. I think I'll post it here, that way anyone can benefit from it.
@@ -32,3 +33,5 @@ Here are my top tips for adapting a productive mindset while learning Ember:
 * Take a deep breath and know that you can do this! Ember will delight you if you give it a chance to be what it is and not compare it to everyone else. 
 
 I hope this advice helps! Enjoy learning Ember!
+
+Until next time. -M
