@@ -31,7 +31,7 @@ I probably should categorize these neatly but I'm trying to overcome the tendenc
 
 Without futher ado, here are the characteristics of the web I want(ed) to dev:
 
-* Development is always done in a response and "mobile-first" way
+* Development is always done in a responsive and "mobile-first" way
 * design tools support relative units
 * websites support use on all types of devices because doing it any other way would be bananas
 * HTML validation is built in to the right places in our tooling
