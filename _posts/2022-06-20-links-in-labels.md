@@ -26,7 +26,7 @@ The form code below shows a common pattern for presenting the user with a requir
 </form>
 ```
 
-When I review this code rendered to a browser with a screen reader, I find that there are two issues here:
+When I review the rendered code with a screen reader, I find that there are two issues here:
 
 * Double label: the accessible name of the input is "I have read and accept the terms and conditions. I have read and accept the terms and conditions." 
 * Missing link identifier: there is no indication that anything is linked. A user can only navigate to the link for the terms and conditions (TOC) _after_ they have had to interact with the **required** checkbox.
