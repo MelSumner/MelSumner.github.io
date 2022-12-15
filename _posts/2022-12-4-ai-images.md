@@ -13,15 +13,16 @@ The first fairy princess version of myself was fun, the "pop" and "anime" versio
 
 When you upload the selfies/photos of yourself, you're asked to pick one of three genders. "Female", "Male" and "Other." I am not going to go into the "other" as a gender, I think it's reductive and I'm sure someone else will write an article about it. But I noticed it and was annoyed by it.
 
-Anyway, after seeing my husband's cool "GTA meets Fear and Loathing in Las Vegas" images, I decided to do an experiment. 
+Anyway, after seeing my husband's cool "GTA meets Fear and Loathing in Las Vegas" images, I decided to do a little experiment.
 
 ## My Experiment
 
-Now, my sample size is small so this isn't a proper experiment by any means, so this should be considerd anecdotal. 
+Now, my sample size is small so this isn't a proper experiment by any means, so this should be considered anecdotal.
 
-People involved:
-- Me: identify as a female.
-- My husband: identifies as a male, has facial hair.
+People involved and genders:
+
+- Me: identify as a female, adult.
+- My husband: identifies as a male, adult with facial hair.
 - My son: identifies as a male, teenager and no facial hair.
 
 I have seven (7) samples of 100 ai-generated avatars each.
@@ -58,11 +59,13 @@ So I uploaded the same set of 20 selfies of me for each gender to see what resul
 | Rainbow         |          |        |X        |
 | Rock Star       |          |X       |         |
 
-The male gender got a lot more interesting categories and resulting images. They could definitely give women the rock star category, there were plenty of my "male rockstar" avatars that were pretty great. The only one that was blatantly sexist was the "astronaut" category-- each of my avatars had facial hair! I was irritated by that, and not only because I kind of wanted to see what "Astronaut Mel" would look like. 
+The male gender got a lot more interesting categories and resulting images. They could definitely give women the rock star category, there were plenty of my "male rockstar" avatars that were pretty great. The only one that was blatantly sexist was the "astronaut" category-- each of my avatars had facial hair! I was irritated by that, and not only because I kind of wanted to see what "Astronaut Mel" would look like.
 
-One really interesting pattern stood out to me more than the rest. My "female" avatars had distinctly disdainful looks on their faces...but none of my "male" avatars did. The machine definitely knows resting bitch face. Very annoying.
+My son's avatars looked like a characters out of a video game or anime series.
 
-## Closing Thoughts
+## Observations
+
+**Resting Bitch Face** One really interesting pattern stood out to me more than the rest. My "female" avatars had distinctly disdainful looks on their faces...but none of my "male" avatars did. The machine definitely knows resting bitch face. Very annoying.
 
 **I would have done this more but...** I only did this a few times because it's `$5.99` each time but if I could, I'd be really interested to run this a lot more times but I am not interested in giving this app any more of my money. 
 
@@ -70,3 +73,8 @@ One really interesting pattern stood out to me more than the rest. My "female" a
 
 **Other is a joke** It's very clear that some of these are just fillers for the count. There were more distorted ai-generated images for the set where I chose "other" as my gender. The "Rainbow" category definitely produced the highest number of distorted images. It was really kind of grotesque. Kawaii and Cyber Scientist were also higher on the distorted image count.
 
+## Closing Thoughts
+
+The thing is, sure we train the AI but we can also tell the AI that we want more diversity, we want to see more possibilities, and we want a really cool imagination land future...and it could provide it. Right now, my observation is that this tool is just reinforcing stale biases instead of the REALLY COOL SHIT IT COULD BE DOING. The tech future was supposed to be cool, but it's mostly just broken, and it's a total bummer.
+
+This app doesn't waste any more of your time than Candy Crush and steals less of your data than Facebook or TikTok. It's mostly a waste of money but hey, I finally have that Melanie-as-Galadriel avatar I always wanted.
