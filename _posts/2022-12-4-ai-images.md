@@ -15,6 +15,8 @@ When you upload the selfies/photos of yourself, you're asked to pick one of thre
 
 Anyway, after seeing my husband's cool "GTA meets Fear and Loathing in Las Vegas" images, I decided to do a little experiment.
 
+![He's just so cool.](/assets/images/ai-avatars/IMG_1364.jpg)
+
 ## My Experiment
 
 Now, my sample size is small so this isn't a proper experiment by any means, so this should be considered anecdotal.
