@@ -93,7 +93,7 @@ Overall, I think my son won the avatar game. My son's avatars looked like a char
 
 **Sexy?** I [read an article](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/) about another woman's experience of getting over-sexualized ai-generated avatars back. I did not experience this. For clarity, one of my selfies had some cleavage in it, none of the rest did. So I'd be curious to see if feeding the machine "sexier" photos will return more dramatic results.
 
-**Other is a joke** It's very clear that some of these are just fillers for the count. There were more distorted ai-generated images for the set where I chose "other" as my gender. The "Rainbow" category definitely produced the highest number of distorted images. It was really kind of grotesque. Kawaii and Cyber Scientist were also higher on the distorted image count.
+**"Other" is a joke** It's very clear that some of these are just fillers for the count. There were more distorted ai-generated images for the set where I chose "other" as my gender. The "Rainbow" category definitely produced the highest number of distorted images. It was really kind of grotesque. I had such high hopes for "Cyber Scientist" but alas, it also had a higher distorted image count for me. "Other" doesn't mean surreal or grotesque, but AI seems to think so. Really, it just needs to refactor all of whatever it shipped to determine what "other" means.
 
 <div class="img-row">
 ![weird rainbow distorted image. One of my eyes is surreal](/assets/images/ai-avatars/other-rainbow-1.png)
