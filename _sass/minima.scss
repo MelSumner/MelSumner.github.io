@@ -50,3 +50,19 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// Some custom stuff for me
+.img-row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+
+  img {
+    @media screen and (min-width: 47em) {
+      width: 40%;
+    }
+    @media screen and (min-width: 81em) {
+      width: 25%;
+    }
+  }
+}
