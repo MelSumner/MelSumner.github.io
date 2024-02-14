@@ -49,7 +49,7 @@ I was mostly interested in what kind of categories seemed "assigned" to a gender
 
 So I uploaded the same set of 20 selfies of me for each gender to see what results I would get. I also compared my results to my husband and son's results.
 
-|                 | Female   | Male   |   Other |
+| Theme           | Female   | Male   |   Other |
 |-----------------|:--------:|:------:|:-------:|
 | Adventure       |          |X       |         |
 | Anime           |X         |X       |X        |
