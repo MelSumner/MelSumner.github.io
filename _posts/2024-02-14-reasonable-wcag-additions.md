@@ -34,4 +34,4 @@ If it goes to a URL, it should be a `<a href="your-url-here">` kind of situation
 
 I think I will add more to this list later, but I have an accessibility audit to get back to.
 
-Until next time xxx
+Until next time -M
