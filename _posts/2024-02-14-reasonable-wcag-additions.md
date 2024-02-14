@@ -7,7 +7,7 @@ updated: 2024-02-14
 
 I've been reading the WCAG Success Criteria on a nearly-daily basis for...well, for a really long time now, and I have come to the opinion that some no-nonsense, reasonable additions would be useful. Note that all of these are based on my own personal experience and don't reflect anyone else's opinions but my own, unless they share this blog post with you and tell you that they explicitly think these things are a good idea. Which they are, of course.
 
-I'm also grateful for WCAG Success Criterion 1.3.1 Information and Relationships because it covers a multitude of sins, BUT I dream of a little more clarity, a little more guidance, a little more explicit "lolno you can't do that."
+I'm also grateful for WCAG Success Criterion [1.3.1 Information and Relationships](https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships) because it covers a multitude of sins, BUT I dream of a little more clarity, a little more guidance, a little more explicit "lolno quit that."
 
 ## Heading Level Order
 
