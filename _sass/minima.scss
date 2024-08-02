@@ -70,3 +70,7 @@ $on-laptop:        800px !default;
 a.page-link {
   text-decoration: underline !important; 
 }
+
+ul + p {
+  margin-top: 1rem;
+}
