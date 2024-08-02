@@ -47,7 +47,9 @@ In no particular order, this is the list I'm thinking about.
 
 The Accessibility Anarchist, particularly when they bear the responsibility of being a browser vendor, is the most frustrating of all categories for me. They are creating a false justice. It creates a rift between folks who depend on the Spec as a source of truth. It creates a distrust in the Spec. It creates a scenario where, instead of the Spec saying "this is how it should work", the browser vendor is saying "this is how Spec should work." It's no longer a collaborative, consensus-driven decision; it's a decision by a select few, behind closed doors and THIS IS VERY BAD for the web _at large_. 
 
-Back to our normally scheduled programming. 
+However, browser venders _in general_ have a history of adding exceptions for their own best interest. Also, Spec has a history of moving slowly (too slowly, some may argue). So the odds are not great here.
+
+Ok, back to our normally scheduled programming. 
 
 There may be other types that exist, these four (and their sub-types) are how I'm sorting things through right now.
 
