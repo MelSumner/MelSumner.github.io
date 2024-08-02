@@ -42,6 +42,7 @@ In no particular order, this is the list I'm thinking about.
   * Sub-type: would only do this in their own app. 
   * Sub-type: browser vendor. 
 
+
 **Warning: Strong opinions ahead**
 
 The Accessibility Anarchist, particularly when they bear the responsibility of being a browser vendor, is the most frustrating of all categories for me. They are creating a false justice. It creates a rift between folks who depend on the Spec as a source of truth. It creates a distrust in the Spec. It creates a scenario where, instead of the Spec saying "this is how it should work", the browser vendor is saying "this is how Spec should work." It's no longer a collaborative, consensus-driven decision; it's a decision by a select few, behind closed doors and THIS IS VERY BAD for the web _at large_. 
