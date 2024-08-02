@@ -1,12 +1,14 @@
 ---
 layout: post
-posttitle:  "title"
-slug: types-of-accessibility-professionals
+posttitle:  Approaches to Accessibility and Other Things
+slug: types-of-accessibility-approaches
 ---
 
-_I have felt vaguely insulted lately, and this is really just me unpacking that. I know! Feelings! In a tech blog? No way! But seriously, maybe it will help you too, though. If not, that's totally fine too._
+_Some contenxt: This blog piece is really me unpacking some emotional stuff. I know! Feelings! In a tech blog? No way! But seriously, maybe it will help you too, though. If not, that's totally fine...YMMV._
 
-Yesterday, I was in a discussion about an accessibility-related technical issue, and the person I was talking to said something along the lines of "I don't understand how you can't empathize with the user here." TBQH, I wanted to laugh/scream/cry because...isn't that _why_ I do what I do? I choose to continue in a technical niche that also happens to have a great deal of emotional labor attached. Their comment felt like an attempt at emotional manipulation, and I reject that.
+Yesterday, I was in a discussion about an accessibility-related technical issue, and a person in the discussion said something along the lines of "I don't understand how you can't empathize with the user here." TBQH, my brain...broke.
+
+I wanted to laugh/scream/cry because isn't that _why_ I do what I do? I choose to continue in a technical niche that also happens to have a great deal of emotional labor attached. Their comment felt like an attempt at emotional manipulation, and I reject that.
 
 Web development is a field where I have had to supress my sense of urgency that we're not doing enough to create an inclusive web. I can't talk about my feelings, or the human rights we're dealing with here, because "we're engineers and we're technical." I cannot speak passionately about the people who rely on us to write better code because our lives are increasingly online, and we're taking away any chance they have at independence (the same independence we insist on!) when we get it wrong. I have spent so much time trying to figure out how to reasonably, and unemotionally, present practical guidance web developers just so they won't feel criticized and reject the guidance I'm trying to give them. Forreal. 
 
