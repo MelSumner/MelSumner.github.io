@@ -35,3 +35,5 @@ If it goes to a URL, it should be a `<a href="your-url-here">` kind of situation
 I think I will add more to this list later, but I have an accessibility audit to get back to.
 
 Until next time -M
+
+P.S. I see that my blog is not compiling the title correctly (automatically using title case instead of respecting what I've indicated should be in all caps via content). It's a bug. 
