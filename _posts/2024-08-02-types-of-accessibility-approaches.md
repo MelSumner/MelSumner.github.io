@@ -4,7 +4,7 @@ posttitle:  Approaches to Accessibility and Other Things
 slug: types-of-accessibility-approaches
 ---
 
-_Some contenxt: This blog piece is really me unpacking some emotional stuff. I know! Feelings! In a tech blog? No way! But seriously, maybe it will help you too, though. If not, that's totally fine...YMMV._
+_Some context: This blog piece is really me unpacking some emotional stuff. I know! Feelings! In a tech blog? No way! But seriously, maybe it will help you too, though. If not, that's totally fine...YMMV._
 
 Yesterday, I was in a discussion about an accessibility-related technical issue, and a person in the discussion said something along the lines of "I don't understand how you can't empathize with the user here." TBQH, my brain...broke.
 
