@@ -2,6 +2,7 @@
 layout: post
 posttitle:  Approaches to Accessibility and Other Things
 slug: types-of-accessibility-approaches
+updated: 2024-08-07
 ---
 
 _Some context: This blog piece is really me unpacking some emotional stuff. I know! Feelings! In a tech blog? No way! But seriously, maybe it will help you too, though. If not, that's totally fine...YMMV._
@@ -40,32 +41,40 @@ In no particular order, this is the list I'm thinking about.
   * Sub-type: There are some gaps, but they can still act. They can identify gaps in an idea from a theoretical perspective, but still be pragmatic about action steps that can be taken to move an idea forward.
 * The Accessibility Anarchist. There are folks that think the users' needs should be put above all else...including Spec. They are totally fine with breaking Spec to implement the solution they think resolves what their users have said they want.
   * Sub-type: would only do this in their own app. 
-  * Sub-type: browser vendor. 
+  * Sub-type: (some) browser vendors. 
 
 
 **Warning: Strong opinions ahead**
 
 The Accessibility Anarchist, particularly when they bear the responsibility of being a browser vendor, is the most frustrating of all categories for me. They are creating a false justice. It creates a rift between folks who depend on the Spec as a source of truth. It creates a distrust in the Spec. It creates a scenario where, instead of the Spec saying "this is how it should work", the browser vendor is saying "this is how Spec should work." It's no longer a collaborative, consensus-driven decision; it's a decision by a select few, behind closed doors and THIS IS VERY BAD for the web _at large_. 
 
-However, browser venders _in general_ have a history of adding exceptions for their own best interest. Also, Spec has a history of moving slowly (too slowly, some may argue). So the odds are not great here.
+However, browser venders _in general_ have a history of adding exceptions for their own best interests, usually business resons. And, as it turns out, sometimes the lack of specification clarity allows them to have varying interpretations, and they sometimes refuse to make a change because it would be too costly and ineffecient.
+
+Additionally, it's important to recognize that Specs have a history of moving slowly (too slowly, some may argue). 
+
+WE MUST RECOGNIZE THAT THIS HAS LEGAL IMPLICATIONS. How can a browser just _refuse_ to make a change based on clarification from the Spec authors? I'm more than a little concerned that this giant mess is going to lead to some sticky legal situations, and in the end, we haven't actually provided equality for users.
+
+This is keeping me up at night right now.
 
 Ok, back to our normally scheduled programming. 
+There may be other types that exist, these four (and their sub-types) are how I'm sorting things through right now. Well, I know for sure there are other types not included here, because I haven't even figured out which one I am, or how my own guidance fits into all of this. 
 
-There may be other types that exist, these four (and their sub-types) are how I'm sorting things through right now.
-
-What I think is more important than working through this for my own sanity, though...in all of this, I think we're really fucking up on the bigger picture. Big time. 
+We're really fucking up on the bigger picture. Big time. 
 
 ## Urgent and Important already exists
 
-There are existing challenges that are more urgent and important. 
+There are existing challenges that are urgent and important. 
 
-* The places where the various Specifications conflict with themselves.
-* The lack of clarity _in general_.
+* The places where the various Specifications conflict with each other...or themselves.
+* The lack of clarity _in general_. So many things are too vague. Requests for clarification go nowhere.
 * The general air of "well, we can't _say_ that, because there are lots of BigTechCo websites that already _do_ that, and it would really break them." Lord forbid.
 * A sense of hopelessness that we can't definitely say "do it this way", not in any official capacity that would matter to the web at large.
+* The perception that no two accessibility Spec authors agree on any given topic, so why include any accessibility folks in the creation of other Specs? 
 
-Y'all, the web is in a not great place right now. Some will argue that it really never has been, but this is a precarious time because it feels like we've collectively given up somehow. Tech execs have decided to try to fix this with AI instead of the long-term strategic initiatives that would improve the web for everyone. 
+Y'all, the web is in a _not great_ place right now. Some will argue that it really never has been, but this is a precarious time because it feels like we've collectively given up somehow. Tech execs have decided to try to fix this with AI instead of the long-term strategic initiatives that would improve the web for everyone. 
 
-Let's keep pushing ourselves to not give up and figure out solutions that work for everyone. America itself is a rather reasonable example of what happens when a few folks decide to implement _for everyone_ the solution that works mostly great but only _for them_. We know it's not working. We could learn from that. 
+Let's keep pushing ourselves to not give up and figure out solutions that work for everyone. America itself is a rather exemplary example of what happens when a few folks decide to implement solutions _for everyone_, but it really only works _for those few_. We know it's not working. We _could actually_ learn from this. 
+
+I think we have to believe that we both deserve better, and can achieve better.
 
 Until next time. -M
