@@ -56,7 +56,7 @@ The other thing is, though, that the human brain is really, really good at ratio
 
 Tricky.
 
-Now, I don't drink Koolaide. It's too sweet for me. I like getting a paycheck, but I also strongly believe that I need to be the expert I was hired to be. This is why I'm a pretty good person to have on board and have doing some audits. I'm pragmatic but I'll push us to do better, and I understand our applications.
+Now, I don't drink Kool-Aid. It's too sweet for me. I like getting a paycheck, but I also **strongly** believe that I must be the expert I was hired to be. This is why I'm a pretty good person to have on board and have doing some audits. I'm pragmatic but I'll push us to do better, and I understand our applications.
 
 So, there are tradeoffs.
 
