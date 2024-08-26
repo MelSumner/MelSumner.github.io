@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 posttitle: "How I use my Stream Deck"
 slug: stream-deck
 ---
