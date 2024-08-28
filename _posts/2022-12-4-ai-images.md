@@ -7,6 +7,8 @@ updated: 2022-12-14
 
 Recently, my internet has been awash with Lensa.ai images. At first I was resistant, but then I realized that the computers have my everything anyway, so might as well. How would AI imagine me? What would I learn about myself? Would I finally have an avatar I didn't hate? I had questions.
 
+<!--more-->
+
 I uploaded 20 of my best selfies and paid the $5.99 for 100 AI-generated images and...meh. Okay, there were a few I liked:
 
 <!-- <div class="img-row"> -->
