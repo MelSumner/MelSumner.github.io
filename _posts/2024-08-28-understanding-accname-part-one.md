@@ -6,7 +6,7 @@ slug: understanding-accname-part-one
 
 Before we begin, some disclaimers and other things of note: 
 
-1. While I am, at the time of this original post, one of the co-editors for the Accessible Name and Description Computation specification, this does not mean that I am a comprehensive authority on the topic. I am the co-editor because at the time, another editor was needed and I stepped up. I learn more all the time.
+1. While I am, at the time of this original post, one of the co-editors for the [Accessible Name and Description Computation](https://w3c.github.io/accname/) specification, this does not mean that I am a comprehensive authority on the topic. I am the co-editor because at the time, another editor was needed and I stepped up. I learn more _all the time_.
 2. There will be some swearing in this series, so tune out if you don't have a browser extension that changes "swear" words to something else, or you haven't taught your kids how to properly swear yet and they are sitting beside you.
 3. I am working on the accessibility of my blog, the code theme doesn't have enough color contrast in some cases, and on smaller viewports it may be difficult to scroll horizontally. They are known issues and I apologize for the inconvenience.
 
@@ -16,7 +16,7 @@ Before we begin, some disclaimers and other things of note:
 
 I felt a little sad when a developer said this to me, but I also empathized. I know what they mean. I meant to write a blog post back then...but you know, life. But _then_ I was watching someone's conference talk video, and they were sharing some information about AccName and I thought, "oh dear, that's not what I want developers to know."
 
-So here I am, and I'm going to try to get down some thoughts and see if I can make AccName a little more approachable for developers. If I come across new information or someone provides factually accurate correction, I will update the post to reflect that.
+So here I am, and I'm going to try to get down some thoughts and examples, and see if I can make AccName a little more approachable for developers. If I come across new information or someone provides factually accurate correction, I will update the post to reflect that.
 
 ## Implementors vs Authors
 
