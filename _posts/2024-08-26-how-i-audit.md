@@ -14,6 +14,8 @@ So when my place of employment (at the time of this writing) was asking, "hey so
 
 Okay, so I've ended up doing the audits for our public accessibility conformance reports(ACRs); while it's not as satisfying as writing new linting rules, strategizing about [Continuous Accessibility](https://continuousaccessibility.com/), or crafting new design system components that are accessible and have great documentation, it has been satisfying because I've been able to undo some of the irritations I've experienced in the past.
 
+<!--more-->
+
 ## Why I dislike them
 
 My primary gripes are maybe probably everyone's gripes.
