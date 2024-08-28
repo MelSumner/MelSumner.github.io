@@ -13,7 +13,7 @@ Disclaimers:
 
 "I just don't understand the AccName spec. It's too confusing."
 
-I felt a little sad when a developer said this to me, but I also empathized. I know what they mean. I meant to write a blog post back then...but you know, life. But I was watching someone's conference talk video recently, and they were sharing some information about AccName and I thought, "oh dear that's not correct."
+I felt a little sad when a developer said this to me, but I also empathized. I know what they mean. I meant to write a blog post back then...but you know, life. But _then_ I was watching someone's conference talk video, and they were sharing some information about AccName and I thought, "oh dear, that's not what I want developers to know."
 
 So here I am, and I'm going to try to get down some thoughts and see if I can make AccName a little more approachable for developers. If I come across new information or someone provides factually accurate correction, I will update the post to reflect that.
 
