@@ -4,10 +4,11 @@ title:  "Understanding AccName: Part One"
 slug: understanding-accname-part-one
 ---
 
-Disclaimers: 
+Before we begin, some disclaimers and other things of note: 
 
 1. While I am, at the time of this original post, one of the co-editors for the Accessible Name and Description Computation specification, this does not mean that I am a comprehensive authority on the topic. I am the co-editor because at the time, another editor was needed and I stepped up. I learn more all the time.
 2. There will be some swearing in this series, so tune out if you don't have a browser extension that changes "swear" words to something else, or you haven't taught your kids how to properly swear yet and they are sitting beside you.
+3. I am working on the accessibility of my blog, the code theme doesn't have enough color contrast in some cases, and on smaller viewports it may be difficult to scroll horizontally. They are known issues and I apologize for the inconvenience.
 
 ---
 
