@@ -72,6 +72,8 @@ a.page-link {
 }
 
 ul + p,
+ul + hr,
+ol + hr,
 hr + p {
   margin-top: 1rem;
 }
