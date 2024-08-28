@@ -11,6 +11,8 @@ Yesterday, I was in a discussion about an accessibility-related technical issue,
 
 I wanted to laugh/scream/cry because isn't that _why_ I do what I do? I choose to continue in a technical niche that also happens to have a great deal of emotional labor attached. Their comment felt like an attempt at emotional manipulation, and I reject that.
 
+<!--more-->
+
 Web development is a field where I have had to supress my sense of urgency that we're not doing enough to create an inclusive web. I can't talk about my feelings, or the human rights we're dealing with here, because "we're engineers and we're technical." I cannot speak passionately about the people who rely on us to write better code because our lives are increasingly online, and we're taking away any chance they have at independence (the same independence we insist on!) when we get it wrong. I have spent so much time trying to figure out how to reasonably, and unemotionally, present practical guidance web developers just so they won't feel criticized and reject the guidance I'm trying to give them. Forreal. 
 
 In this particular case, my issue was with  the technical approach used to solve the issue for the end user. I am not okay with solutions that break technical requirements. I think the technical requirements should be changed _first_, because that's where we get to consider the existing requirements while trying to write new ones. It was the technical approach that I had an issue with, not the user feedback.
