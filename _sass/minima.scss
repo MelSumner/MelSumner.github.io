@@ -71,6 +71,7 @@ a.page-link {
   text-decoration: underline !important; 
 }
 
-ul + p {
+ul + p,
+hr + p {
   margin-top: 1rem;
 }
