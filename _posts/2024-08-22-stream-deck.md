@@ -17,6 +17,8 @@ I currently use my Stream Deck attached to my Macbook Pro for work; here are som
 
 So let's talk about a couple of these use cases.
 
+<!--more-->
+
 ## Rectangle App
 
 Right now, I have an ultra-widescreen monitor. This is where Rectangle comes in pretty handy. 
