@@ -122,7 +122,7 @@ When you will especially want to reach for this is when you have an input that h
 <label for="search-input">Search this site</label>
 <div id="help-text">Use quotation marks for an exact term.</div>
 <input type="search" id="search-input" aria-describedby="help-text error-text-001" />
-<div id="error-text-001">Your search term must be at least three characters long.</div>
+<div id="error-text-001">Search terms must be at least 3 characters long.</div>
 ```
 
 ## Closing out part one
