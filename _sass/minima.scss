@@ -67,7 +67,8 @@ $on-laptop:        800px !default;
   }
 }
 
-a.page-link {
+a.page-link,
+li a {
   text-decoration: underline !important; 
 }
 
