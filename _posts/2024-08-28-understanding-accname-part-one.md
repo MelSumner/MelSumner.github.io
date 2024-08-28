@@ -70,6 +70,12 @@ Let's consider the search input, because that's the first example that comes to 
 <input type="search" id="search input" />
 ```
 
+Or maybe you have a button that does a thing:
+
+```html
+<button type="button>Click Me</button>
+```
+
 ### Accessible name can come from existing elements
 
 Ok so let's imagine that your designer(s) got a little fancy on you, and they made something like this, and the heading is appropriate because it's in the correct heading order and flow of the document:
@@ -97,6 +103,16 @@ If you must, you can add an `aria-label` attribute to the `input` element.
 
 Now, your _sighted_ users will have no idea what's going on here, but at least your users with screen readers will know what's going on!
 Just kidding, maybe there's some kind of background image of a magnifying glass that's placed _just right_ and then everyone will know that we mean search. Right...?
+
+Or maybe you have an icon-only button (again, there's research on this and user prefer the words, but if you must...)
+
+```html
+<button type="button" aria-label="more info">
+ <svg aria-hidden="true">
+  <!--all the svg here-->
+</svg>
+</button>
+```
 
 ### Accessible description
 
