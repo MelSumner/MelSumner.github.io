@@ -104,7 +104,7 @@ Maybe in addition to your awesome label (using any of the aforementioned methods
 
 ```html
 <label for="search-input">Search this site</label>
-<div id="help-text">Enter your search term here. Use quotation marks if you want your search term to be matched exactly.</div>
+<div id="help-text">Use quotation marks for an exact term.</div>
 <input type="search" id="search-input" aria-describedby="help-text" />
 ```
 
@@ -118,9 +118,9 @@ Same attribute value rules as `aria-labelledby`:
 
 When you will especially want to reach for this is when you have an input that has both help text and, gasp, an error message! If you do that, then the user will be informed when there is an error associated with the input field. Let's imagine the user has somehow used the search incorrectly.
 
-````html
+```html
 <label for="search-input">Search this site</label>
-<div id="help-text">Enter your search term here. Use quotation marks if you want your search term to be matched exactly.</div>
+<div id="help-text">Use quotation marks for an exact term.</div>
 <input type="search" id="search-input" aria-describedby="help-text error-text-001" />
 <div id="error-text-001">Your search term must be at least three characters long.</div>
 ```
