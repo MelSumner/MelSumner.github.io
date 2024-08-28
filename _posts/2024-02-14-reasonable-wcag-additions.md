@@ -1,6 +1,6 @@
 ---
 layout: post
-posttitle: "Reasonable WCAG Additions"
+title: "Reasonable WCAG Additions"
 slug: reasonable-wcag-additions
 updated: 2024-02-14
 ---
