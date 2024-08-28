@@ -1,6 +1,6 @@
 ---
 layout: post
-posttitle:  Approaches to Accessibility and Other Things
+title:  Approaches to Accessibility and Other Things
 slug: types-of-accessibility-approaches
 updated: 2024-08-07
 ---
