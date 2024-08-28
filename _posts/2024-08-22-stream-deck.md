@@ -1,6 +1,6 @@
 ---
 layout: post
-posttitle: "How I use my Stream Deck"
+title: "How I use my Stream Deck"
 slug: stream-deck
 ---
 
