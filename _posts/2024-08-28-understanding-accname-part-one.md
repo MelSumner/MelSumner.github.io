@@ -2,13 +2,14 @@
 layout: post
 title:  "Understanding AccName: Part One"
 slug: understanding-accname-part-one
+updated: 2024-08-29
 ---
 
 Before we begin, some disclaimers and other things of note: 
 
 1. While I am, at the time of this original post, one of the co-editors for the [Accessible Name and Description Computation](https://w3c.github.io/accname/) specification, this does not mean that I am a comprehensive authority on the topic. I am the co-editor because at the time, another editor was needed and I stepped up. I learn more _all the time_.
 2. There will be some swearing in this series, so tune out if you don't have a browser extension that changes "swear" words to something else, or you haven't taught your kids how to properly swear yet and they are sitting beside you.
-3. I am working on the accessibility of my blog, the code theme doesn't have enough color contrast in some cases, and on smaller viewports it may be difficult to scroll horizontally. They are known issues and I apologize for the inconvenience.
+3. I am working on the accessibility of my blog; on smaller viewports it may be difficult to scroll horizontally. I apologize for the inconvenience and am working on a fix.
 
 ---
 
@@ -74,7 +75,7 @@ Let's consider the search input, because that's the first example that comes to 
 Or maybe you have a button that does a thing:
 
 ```html
-<button type="button>Click Me</button>
+<button type="button">Click Me</button>
 ```
 
 ### Accessible name can come from existing elements
@@ -110,7 +111,7 @@ Or maybe you have an icon-only button (again, there's research on this and user 
 ```html
 <button type="button" aria-label="more info">
  <svg aria-hidden="true">
-  <!--all the svg here-->
+  <!--all the info icon svg here-->
 </svg>
 </button>
 ```
