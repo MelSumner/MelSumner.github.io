@@ -10,7 +10,7 @@ Before we begin, some disclaimers and other things of note:
 1. While I am, at the time of this original post, one of the co-editors for the [Accessible Name and Description Computation](https://w3c.github.io/accname/) specification, this does not mean that I am a comprehensive authority on the topic. I am the co-editor because at the time, another editor was needed and I stepped up. I learn more _all the time_.
 2. There will be some swearing in this series.
    
----
+<!--more-->
 
 "I just don't understand the AccName spec. It's too confusing."
 
