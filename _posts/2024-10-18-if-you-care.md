@@ -11,19 +11,19 @@ I avoid using the word "care" when I talk about accessibility, and I believe tha
 But let me back up a little. I've taken up sewing, for a few reasons:
 
 1. Fast fashion is everywhere and it's gross. Clothes do not feel like they are made of any meaningful quality and just feel really gross on me.
-2. Even expensive clothing does not last "the way it used to". I almost exclusively buy clothes from Eileen Fisher and pieces I've purchased in the last couple of years can still cost $200-400+ but only last a year or so.
-3. The clothes I really want to buy don't exist.
+2. Dollars spent no longer translates to quality. I still almost exclusively buy clothes from Eileen Fisher, but pieces I've purchased in the last couple of years can still cost $200-400+ but the quality has decline to the point where they are wearing out faster than older pieces in my wardrobe.
+3. The clothes I _really_ want to buy just don't exist.
 4. I needed a hobby that was not related to writing code.
 
 Now, in taking up a new hobby, I've found a whole new world of things I do not know yet. Things that I never had to think about when buying clothes, but are now concerns that I want to make them. I'm thinking about the weight of a material, not just what it is made from. I'm thinking about the materials used in zippers. In buttons. And, as it turns out, the typical crafting store seems to carry the same quality of materials used by fast fashion.
 
 So I've dug in and have been researching all of the new questions. Where can I find a place to buy material that also lists the weight of that material? Where can I find reviews for these places? Whose reviews are trustworthy? The list seems endless. But there are also useful resources I have discovered, blogs and YouTube content where I can gain the understanding I seek.
 
-I browse videos that talk about quality and how to discern it. One of the issues I have with those, however informative, is that they still don't give the answer for quality. They tend to criticize (and rightly so) the quality of major brands by showing how the finishes are of cheap materials, or the garment isn't lined, or even sewn together properly. They can tell if the threads will break too easily. They will even let you know that even if a garment says it's constructed from 100% wool or 100% cotton, it could still be sewn together with cheap polyester thread and that's totally fine for them to do! 
+I browse videos that talk about quality and how to discern it. One of the issues I have with those, however informative, is that they still don't give the answer for quality. They tend to criticize (and rightly so) the quality of major brands by showing how the finishes are of cheap materials, or the garment isn't lined, or even sewn together properly. They can tell if the threads will break too easily. They will even let you know that even if a garment says it's constructed from 100% wool or 100% cotton, it could still be sewn together with cheap polyester thread and that's totally fine for them to do! Ugh. The videos are somewhat informational but mostly depressing and I still don't actually have the answers I seek.
 
 So...what is quality, then? What does that mean, really?
 
-I came across a video from a YouTube creator: [What Does "High Quality" Mean in High Fashion?](https://youtu.be/OMNdUTpJ7MY?si=pzC_2jRbrzIfLRXi) by Bliss Foster, and I will admit it, I watched past the first five minutes because he is highly entertaining in his delivery. It's very different from the types of videos I usually watch. There's an almost chaotic energy about it. So I watched, because that day was fairly boring, I was fairly entertained. But as he started to describe the ways that checklists will fail, I started to take notice. And then he said something that completely got to me. 
+I came across a video from a YouTube creator: [What Does "High Quality" Mean in High Fashion?](https://youtu.be/OMNdUTpJ7MY?si=pzC_2jRbrzIfLRXi) by Bliss Foster, and I will admit it, I only watched past the first five minutes due to his highly entertaining delivery. It's very different from the types of videos I usually watch. There's an almost chaotic energy about it. So I watched, because that day was fairly boring, I was fairly entertained. But as he started to describe the ways that checklists will fail, I started to take notice. And then he said something that completely got to me. 
 
 "...the definition that we've been using for quality was never helping us...the only thing that produces quality is care."
 
