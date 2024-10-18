@@ -4,7 +4,7 @@ title:  "If You Care"
 slug: if-you-care
 ---
 
-I avoid using the word "care" when I talk about accessibility, and I believe that part of my success in reaching engineers is that I avoid that word. I try to avoid all emotion words, really. Many web developers and software engineers get really upset if you use the word "care", because in doing so, you're implying some shortcoming on their end _if they do not_. And heavens forbid a software engineer being forced to face a shortcoming. It is, as memes would suggest, a well-known flaw.
+I avoid using the word "care" when I talk about accessibility, and I believe that part of my success in reaching engineers is that I have avoided that word. I try to avoid all emotion words, really. Many web developers/software engineers get really upset if you use the word "care", because in doing so, you're implying some shortcoming on their end _if they do not_. And heavens forbid a software engineer being forced to face a shortcoming...or a feeling. It is, as memes would suggest, a well-known flaw.
    
 <!--more-->
 
