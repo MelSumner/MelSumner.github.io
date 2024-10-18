@@ -10,10 +10,10 @@ I avoid using the word "care" when I talk about accessibility, and I believe tha
 
 But let me back up a little. I've taken up sewing, for a few reasons:
 
-1. Fast fashion is everywhere and it's gross. Clothes do not feel like they are made of any meaningful quality and just feel really gross on me.
+1. Fast fashion is everywhere and it's...gross. Clothes do not feel like they are made of any meaningful quality and just feel really gross in my hands and on my skin.
 2. Dollars spent no longer translates to quality. I still almost exclusively buy clothes from Eileen Fisher, but pieces I've purchased in the last couple of years can still cost $200-400+ but the quality has decline to the point where they are wearing out faster than older pieces in my wardrobe.
 3. The clothes I _really_ want to buy just don't exist.
-4. I needed a hobby that was not related to writing code.
+4. I needed a hobby that was not related to writing code. Honestly, it was mostly this one. I just needed something else to focus on that was not some version of creating new things for the web. This is what happens when you turn your hobby in to your career. Sometimes you forget to find a new hobby. But the lines started to blur between what was a hobby and what was my career, so I had to find a new one.
 
 Now, in taking up a new hobby, I've found a whole new world of things I do not know yet. Things that I never had to think about when buying clothes, but are now concerns that I want to make them. I'm thinking about the weight of a material, not just what it is made from. I'm thinking about the materials used in zippers. In buttons. And, as it turns out, the typical crafting store seems to carry the same quality of materials used by fast fashion.
 
