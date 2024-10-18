@@ -23,13 +23,11 @@ I browse videos that talk about quality and how to discern it. One of the issues
 
 So...what is quality, then? What does that mean, really?
 
-I came across a video from a YouTube creator: [What Does "High Quality" Mean in High Fashion?](https://youtu.be/OMNdUTpJ7MY?si=pzC_2jRbrzIfLRXi) by Bliss Foster, and I will admit it, I only watched past the first five minutes due to his highly entertaining delivery. It's very different from the types of videos I usually watch. There's an almost chaotic energy about it. So I watched, because that day was fairly boring, I was fairly entertained. But as he started to describe the ways that checklists will fail, I started to take notice. And then he said something that completely got to me. 
+I came across a video from a YouTube creator: [What Does "High Quality" Mean in High Fashion?](https://youtu.be/OMNdUTpJ7MY?si=pzC_2jRbrzIfLRXi) by Bliss Foster. I will admit it, I only watched past the first five minutes due to his highly entertaining delivery. It's very different from the types of videos I usually watch. There's an almost chaotic energy about it. So I watched, because that day was fairly boring, I was fairly entertained. But as he started to describe the ways that checklists will fail, I started to take notice. And then he said something that completely got to me. 
 
 "...the definition that we've been using for quality was never helping us...the only thing that produces quality is care."
 
-He goes more into this, and I think it's worth watching, so I'm not going to quote him more. I'm just going to say, go watch the video and absorb what he is saying because it's important.
-
-This also strongly resonated with documentary-type shows I've been enjoying, such as [Saving Soles](https://www.youtube.com/watch?v=K8BR5JPfBNg) from NHK World Japan. 
+This also strongly resonated with documentary-type shows I've been enjoying, such as [Saving Soles](https://www.youtube.com/watch?v=K8BR5JPfBNg) from NHK World Japan. Anyway, Bliss goes more into this, and I think it's worth watching, so I'm not going to quote him more, here. I'm just going to say, go watch the video about quality and absorb what he is saying because it's important. This message matters.
 
 I am going to stop avoiding emotion words when I talk about digital accessibility, because Bliss is not just right about quality in the clothes we wear. The inclusion of care as an essential component to _anything_ being created is, in fact, what creates the quality. This is why AI can't get this right. This is why fast fashion can't get this right. This is why all automation created for engineers will never be the final answer.
 
