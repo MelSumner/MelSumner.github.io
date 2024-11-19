@@ -4,15 +4,11 @@ title:  "Living with ADHD"
 slug: living-with-adhd
 ---
 
-For years, I felt like there was this persistent fog around my brain. If I could just try a little harder. If I could train my mind and focus a little more. I could do so much. I could be the best version of myself. If. The list was endless.
-
-Turns out, it wasn't me, it was my brain. I had ADHD, I just didn't know it yet.
-
-I've been on this journey for many years now. Maybe my story will help someone a little bit.
+For years, I felt like there was this persistent fog around my brain. If I could just try a little harder. If I could train my mind and focus a little more. I could do so much. I could be the best version of myself. If. The list was endless. Turns out, it wasn't me, it was my brain. I had ADHD, I just didn't know it yet. I've been on this journey for many years now, so maybe it's time to talk about it. Maybe my story will help someone a little bit.
 
 <!--more-->
 
-As a disabled military veteran with an honorable discharge, I have access to care from VA hospitals. They are understaffed and forever don't have enough budget, but they do try. My frustration with them came with being consistently diagnosed with depression, when I knew I did not have depression. I had just experienced some _really_ bad things. But they insisted, and gave me medication. I thought that maybe I was just _unwilling_ to accept that the bad things that had happened to me had somehow created my depressed self, and that maybe I should listen to them. So I tried the medication and the therapy. The therapy helped a little bit, but it was still focused on _just how depressed_ I was. Thing is, I hated the medications. I hated what they did to me. They didn't manage my "depression" but turned me into a zombified version of myself. It almost felt like...I didn't exist anymore. My body did, but my persona did not, if that makes sense? It was really weird.
+As a disabled military veteran with an honorable discharge, I have access to care from VA hospitals. They are understaffed and forever don't have enough budget, but they do try. My frustration was being consistently diagnosed with depression, when I knew I did not have depression. I had just experienced some _really_ bad things. But they insisted, and gave me medication. I thought that maybe I was just _unwilling_ to accept that the bad things that had happened to me had somehow created my depressed self, and that maybe I should listen to them. So I tried the medication and the therapy. The therapy helped a little bit, but it was still focused on _just how depressed_ I was. Thing is, I hated the medications. I hated what they did to me. They didn't manage my "depression" but turned me into a zombified version of myself. It almost felt like...I didn't exist anymore. My body did, but my persona did not, if that makes sense? It was really weird.
 
 Now here's the thing, I have had a really strange life and perhaps, one might say, more than my share of _really terrible things_ happening to a person. It took many years just to talk through those things, which included things like almost dying that one time. There's a lot of talk therapy that goes into working through bad things that happen to you. There's also different kinds of depression; there's situational depression, where you're genuinely experiencing depression because something bad happened. There's also the kind of depression where your brain doesn't work properly and you are in a state of being depressed forever (and need medication forever). So I get the idea that because so many bad things happened, and because I had a PTSD and anxiety diagnosis, depression would just make sense. But they didn't ever consider anything else, and I grew increasingly distressed that this would be how the rest of my life went. 
 
@@ -36,9 +32,9 @@ I will say, it's not because you're not disciplined enough. Fuck that and fuck a
 
 ### Expected changes
 
-Within a year, I learned two programming languages and my fledgling web developer skills took flight. I was writing custom applications in PHP (not my choice but leave PHP alone, it's _fine_) and taught myself how to manage servers. I was working at a University at the time and had a _fantastic_ manager who gave me the room to do useful things that would eventually change my career path to being a software engineer full time. _(Really, Robin, if you're reading this...thank you. Thank you for giving me the room to _become_.)_
+I was working at a University at the time and had a _fantastic_ manager who gave me the room to do useful things that would eventually change my career path to being a software engineer full time. _(Really, Robin, if you're reading this...thank you. Thank you for giving me the room to become the person I was meant to be.)_ Within a year, I learned two programming languages and my fledgling web developer skills took flight. I started writing custom applications in PHP (not my choice but leave PHP alone, it's _fine_) and taught myself how to manage servers. I took a class on how to write APIs in Node (super fun!). I got involved in the technology group there and started learning about accessibility. 
 
-I was also able to get my life more in order. Categories made sense. I could make a todo list and finish it. I applied for an 
+I was also able to get my life more in order. Categories made sense. I could make a todo list and finish it. I applied for a role as a programmer and was accepted. 
 
 ### Unexpected changes
 
@@ -85,7 +81,5 @@ I use a Discord server to run my home. Well, I should say, my husband and I use 
 ## It mostly works
 
 This all mostly works. I have some other things that help me, but honestly some of me is just messy and I have come to accept both that facet of my personality and also that I will always aspire to someday not have as many messy parts.
-
-I hope some of this helps someone out there, or maybe gives you some ideas.
 
 Until next time. -M
