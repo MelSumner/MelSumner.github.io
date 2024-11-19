@@ -7,6 +7,9 @@ slug: living-with-adhd
 For years, I felt like there was this persistent fog around my brain. If I could just try a little harder. If I could train my mind and focus a little more. I could do so much. I could be the best version of myself. If. The list was endless. Turns out, it wasn't me, it was my brain. I had ADHD, I just didn't know it yet. I've been on this journey for many years now, so maybe it's time to talk about it. Maybe my story will help someone a little bit.
 
 <!--more-->
+## The backstory
+
+I realize this first backstory part is like those recipe sites that tell you a story and then give you the recipe. If you are reading this and don't really care about how I figured out I had ADHD, then skip to the "How my life is now" part. (^_^)
 
 As a disabled military veteran with an honorable discharge, I have access to care from VA hospitals. They are understaffed and forever don't have enough budget, but they do try. My frustration was being consistently diagnosed with depression, when I knew I did not have depression. I had just experienced some _really_ bad things. But they insisted, and gave me medication. I thought that maybe I was just _unwilling_ to accept that the bad things that had happened to me had somehow created my depressed self, and that maybe I should listen to them. So I tried the medication and the therapy. The therapy helped a little bit, but it was still focused on _just how depressed_ I was. Thing is, I hated the medications. I hated what they did to me. They didn't manage my "depression" but turned me into a zombified version of myself. It almost felt like...I didn't exist anymore. My body did, but my persona did not, if that makes sense? It was really weird.
 
@@ -26,9 +29,11 @@ I can still remember what it felt like after the medication started working, and
 
 From then on, my life changed in many ways. Some expected, some unexpected.
 
-The thing about ADHD is that your brain just doesn't have the right executive functioning it needs to help you organize the stuff you need to do in a way that makes sure it gets done. There's a lot of snake oil on the internet about what ADHD is and whatever, so I will say that if you think you have symptoms then talk to your doctor (and maybe get a second opinion) and don't pay attention to social media reels that try to tell you what is wrong with you or any of that.
+The thing about ADHD is that your brain just doesn't have the right executive functioning _it_ needs to help you organize the stuff you need to do, in a way that makes sure it gets done. 
 
-I will say, it's not because you're not disciplined enough. Fuck that and fuck anyone who says that, if you'll pardon my french.
+There's a lot of snake oil on the internet about what ADHD is and whatever, so I will say that if you think you have symptoms then talk to your doctor (and maybe get a second opinion) and don't pay attention to social media reels that try to tell you what is wrong with you or any of that. Not all women who have ADHD also have autism. Promise. Figure this out with a good doctor.
+
+I will say, though, it's not because you're not disciplined enough. Fuck that and fuck anyone who says that, if you'll pardon my french.
 
 ### Expected changes
 
@@ -47,6 +52,8 @@ There's also the kind of acceptance that comes with needing to understand that w
 I figure I'm about ten years "behind" in life, from where either I think I should be or where I observe others of my age to be. That hurts some days, but most days I am okay with it.
 
 ## How my life is now
+
+AKA, what I have been doing to cope with this for all of these years.
 
 **Rituals, Rules and Routines.** This is my life. Well, TBH we say this is how we live but I don't really know what's a ritual or a rule or a routine. But I feel like what we have set up pretty much falls in one of these categories. Plus it sounds cool.
 
