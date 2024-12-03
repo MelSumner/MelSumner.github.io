@@ -69,7 +69,7 @@ Maybe I'm lucky that we like each other first, and love grew from that. But I al
 
 ## A message for anyone considering marriage
 
-The thing is, you do you, Unless that is giving up all of your personhood to this idea of being a man's helpmate, then quit that shit. Open your eyes and free yourself. You are not a slave, you've never been a slave, and there is no eternal damnation for you setting emotional boundaries for yourself.
+The thing is, you do you. Unless you doing you means giving up all of your personhood to this idea of being a man's helpmate. Then quit that shit. Open your eyes and free yourself. You are not a slave, you've never been a slave, and there is no eternal damnation for setting up emotional boundaries.
 
 Otherwise for real, you do you.
 
