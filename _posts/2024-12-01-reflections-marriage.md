@@ -77,7 +77,9 @@ Women, perhaps more than men, are sold this idea of the "perfect". The perfect p
 
 But it's not reality.
 
-When you are raised being told that there's a fairy tale, that there's this perfect thing, that if some man loves you enough he will propose and buy you a big house and you will live happily ever after, there's a certain amount of grieving that comes with understanding that life is not like that, too. Fundamentally understanding that the perfect does not exist, is sad! But embracing that sadness and letting it become a part of your reality is so much better than just pretending. I promise.
+I grew up in the fantasy, but reality hit me hard and fast. And it's work to leave that mindset. When you are raised being told that there's a fairy tale, that there's this perfect thing, that if some man loves you enough he will propose and it will be perfect, and then he will buy you a big house and you will live happily ever after...finding out that it's all a lie means that there's a certain amount of grieving that comes with understanding that life is not like that. Fundamentally understanding that _the perfect_ does not exist, can be really sad! But embracing that sadness and letting it become a part of your reality is so much better than just pretending. I promise.
+
+Accepting what is real, and rejecting what is not, has helped shape the fortitude I have today. There's a deep peace that comes with that.
 
 Honestly, an Instagram feed is about as perfect as any life actually gets. And even then, that only looks pretty great because there are filters, and music, and because I don't have to show the laundry piled up on my dresser in front of my picture-perfect view of the city. I can just crop out the mess and show my picture-perfect view of the city. Maybe I'll put the laundry away, but then again, maybe I won't. Real life is not Instagram.
 
