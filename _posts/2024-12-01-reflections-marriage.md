@@ -12,30 +12,30 @@ Despite my persistent reticence to go _anywhere_ during winter holidays, I recei
 
 Attending this wedding meant going back to where it all started...sorta. The wedding was in a different city than I grew up in, but it was still in a church and still a christian-esque service. Many people in attendance were also people I knew growing up. Some people I only knew from social media. But the coolest part was that my sisters were there, too.
 
-We hung out at our hotel the night before the wedding and that was probably the most special time of the weekend. We just...caught up. We talked about our lives now and just sort of talked about anything and everything in general. It's hard to put it into words; if you know you know, and if you don't know, it won't be very interesting to know about. The feeling of being around people you love fiercely, haven't seen in years, and are instantly connected to again...that best describes that night.
+We hung out at our hotel the night before the wedding and that was probably the most special time of the weekend for me. We just...caught up. We talked about our lives now and just sort of talked about anything and everything in general. It's hard to put it into words; if you know you know, and if you don't know, it won't be very interesting to know about. The feeling of being around people you love fiercely, haven't seen in years, and are instantly connected to again...that best describes that night.
 
 ## A wedding service
 
 The wedding itself was sort of what I would expect for a wedding; cute children in the wedding party, lovely bridesmaids dresses, and my cousin looked beautiful in her wedding dress. The building itself looked like some sort of Methodist (or similar) church. Stained glass windows, wood benches and lots of candles at the front.
 
-They were married by her grandfather. Even though we are cousins, he isn't my grandfather, but for all intents and purposes, he sorta was while I was growing up. It's a weird thing to try to explain, so I won't try to do that here. I think the cues to how it was going to go should have been in the first sentence... "Who gives this woman to be married to this man?"
+They were married by her grandfather. I think the cue to how it was about to go should have been in the first sentence... "Who gives this woman to be married to this man?"
 
-I'm sorry, what??
+I beg your pardon?
 
-We're in 2024, yes? We're still doing this?? Let me be super clear: women are not possessions that can be given away. A person makes the choice to freely join in a partnership. That is it.
+We're in 2024, yes? We're still doing this shit?? Let me be super clear: women are not possessions that can be given away. A person makes the choice to freely join in a partnership. That is it. Don't even include those fucking words in the ceremony. Why was this ever okay? It's especially not been okay for a long fucking time. WOW did that make me see red.
 
-Next up, let's read a scripture. He went to Genesis and really that should have been my first cue. When he started talking, I was devastated, and then absolutely furious. He read the part in the bible about how god told Adam to name all of the other creations/animals and while he was doing that, see if one of them would be a good helpmate. But then he couldn't find one after he did all the naming (_insert "naming things is hard" joke here_). So god was like, cool, let me take one of your ribs and make someone like you who isn't you but would be like a good helpmate to you.
+Next up, reading of a scripture with some commentary. He went to Genesis and really that should have been my first cue. When he started talking, I was devastated, and then absolutely furious. He read the part in the bible about how god told Adam to name all of the other creations/animals and while he was doing that, see if one of them would be a good helpmate. But then he couldn't find one after he did all the naming (_insert "naming things is hard" joke here_). So god was like, cool, let me take one of your ribs and make someone like you who isn't you but would be like a good helpmate to you.
 
-### Comedic pause for some thoughts
+### Comedic pause for some...questions
 
-I had a couple of thoughts here, mostly funny ones because I was legit trying to cope.
+I had a couple of amusing thoughts here, because humor is my coping mechanism when I am trapped in a room where it would be rude to just leave.
 
 1. Why didn't god just do that whole "creating a partner" thing from the start? If I was Adam and I'd just done all that NAMING EVERYTHING work, TBQH I'd be pissed.
 2. I wonder who the runners up were? Was Adam like, "I have a shortlist that could maybe work but I really just didn't find one that I think would be perfect."
 3. Has anyone ever gotten up and screamed as loud as they could during one of these things?
 4. Did anyone else also have the overwhelming urge to scream in protest?
 
-Anyway.
+Just some questions that came to mind. Anyway.
 
 The scripture/commentary part of it was really just repeating the message that I'd heard my whole childhood: women are lesser. Women aren't meant to be first. Women are intended to be helpers, not leaders. I could have screamed. I wanted to scream. It's everything I have spent my life PROVING OTHERWISE.
 
