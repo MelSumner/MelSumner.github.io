@@ -16,9 +16,9 @@ We hung out at our hotel the night before the wedding and that was probably the 
 
 ## A wedding service
 
-The wedding itself was sort of what I would expect for a wedding; cute children in the wedding party, lovely bridesmaids dresses, and my cousin looked beautiful in her wedding dress. The building itself looked like some sort of Methodist (or similar) church. Stained glass windows, wood benches and lots of candles at the front.
+The wedding itself was sort of what I would expect for a wedding; cute children in the wedding party, lovely bridesmaids dresses, and my cousin looked beautiful in her wedding dress. The building itself looked like some sort of Methodist (or similar) church. Stained glass windows, wood benches and lots of candles at the front. They were married by her grandfather. It was all very beautiful and sweet. It was thoughtful and a lot of love and time was spent to create this day.
 
-They were married by her grandfather. I think the cue to how it was about to go should have been in the first sentence... "Who gives this woman to be married to this man?"
+I think the cue to how the service was about to go, however, should have been in the first sentence... "Who gives this woman to be married to this man?"
 
 I beg your pardon?
 
