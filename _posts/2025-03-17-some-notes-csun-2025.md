@@ -23,7 +23,7 @@ Here they are, no particular order. YMMV, experiences mine, yadda yadda.
 
 ## The Experiences
 
-1. Glenda Sims in a carebear suit might be the best thing I've ever seen in this world. Maybe surprised kitten but probably Glenda.
+1. Glenda Sims in a carebear suit might be the best thing I've ever seen in this world. Maybe surprised kitten? but probably Glenda.
 2. Played a tabletop game with some old friends and new until way too late one night. 11/10, highly recommend. 
 3. The number of people that do not understand that a company's design system is probably *not* what is used for the brand's dot com site was really surprising to me. Like, really surprising. Folks, unless it's a small company, it's probably not the same design system.
 4. There should be a different phrase for "nice to see you" because once you start thinking about it, it feels like a weird thing to say to someone with no vision. Eep.
