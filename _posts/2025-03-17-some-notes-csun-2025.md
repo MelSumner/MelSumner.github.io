@@ -32,7 +32,7 @@ Here they are, no particular order. YMMV, experiences mine, yadda yadda.
 7. Shoutout to the salesperson that totally sniped me on that massage gun. All that walking around and being on my feet and...okay. You got me. My wallet is lighter and I don't even care. Good job!
 8. I had face masks with me and wore one when I felt like I needed to. But I also felt annoyed at the people who were definitely virtue signaling with their masks because lol that's not what they are there for! I also felt bad for the people who just couldn't be there because of long COVID or similar reasons.
 9. Rooms were very crowded. Too crowded. And that's even in a year that felt light on attendees compared to other years I've attended. I am not sure what I would even _suggest_ be done about this, but there has to be a better way.
-10. I was able to spend a little time chatting with Lainey Feingold about staying grounded right now. Her [legal updates about digital accessibility](https://bsky.app/profile/lflegal.bsky.social/post/3lkjea2ciys2x) were spot on. It was also pretty great to spend time chatting with her.
+10. I was able to spend a little time chatting with Lainey Feingold about staying grounded right now. Her [legal updates about digital accessibility](https://bsky.app/profile/lflegal.bsky.social/post/3lkjea2ciys2x) were spot on. It was also pretty great to spend time chatting with someone whose work I respect and admire.
 
 
 ## Some Travel and Location Notes
