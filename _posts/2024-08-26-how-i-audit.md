@@ -4,13 +4,13 @@ title:  "How I audit"
 slug: how-i-audit
 ---
 
-I really, really, REALLY hate accessibility audits.
+I dislike doing accessibility audits. Even more, I really, really, REALLY hate receiving them from other people.
 
-Okay, maybe I should clarify. I really really REALLY hate getting generic accessibility audit reports that companies pay a lot of money for but don't produce useful results.
+Okay, maybe I should clarify a little. My strong hatred is generic audit reports that companies pay a lot of money for but don't produce useful results.
 
-Maybe I should explain.
+Maybe I should just explain.
 
-So when my place of employment (at the time of this writing) was asking, "hey some customer asked for a thing called a VPAT, do you know what that is?" I was really interested at the opportunity to weigh in.
+So when my place of employment (at the time of this writing) was asking, "hey some customer asked for a thing called a VPAT, do you know what that is?" I was  interested at the opportunity to weigh in.
 
 Okay, so I've ended up doing the audits for our public accessibility conformance reports(ACRs); while it's not as satisfying as writing new linting rules, strategizing about [Continuous Accessibility](https://continuousaccessibility.com/), or crafting new design system components that are accessible and have great documentation, it has been satisfying because I've been able to undo some of the irritations I've experienced in the past.
 
