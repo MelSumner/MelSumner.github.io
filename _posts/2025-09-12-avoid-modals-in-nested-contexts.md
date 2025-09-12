@@ -33,10 +33,10 @@ I've run into some patterns that raised some red flags for me lately, so I wante
 ### Standards & Best Practices
 
 * WCAG implications: Improper handling of focus and modality can fail:
- * 2.1.2 No Keyboard Trap
- * 2.4.3 Focus Order
- * 2.4.7 Focus Visible
-* Design system guidance: Many modern design systems (Material, Carbon, Lightning) explicitly prohibit nested modals.
+ * [2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html)
+ * [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html)
+ * [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html)
+* Design system guidance: Examples of modern design systems ([Material](https://m3.material.io/components/dialogs/guidelines), [Carbon](https://carbondesignsystem.com/patterns/dialog-pattern/), [Lightning2](https://www.lightningdesignsystem.com/2e1ef8501/p/01c12a-modals/b/464754)) that provide guidance regarding dialogs/modals. I noted that IBM's Carbon design system explicitly prohibits this pattern, and I was encouraged by that.
 
 ### Alternatives
 
