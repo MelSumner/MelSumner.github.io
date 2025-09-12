@@ -4,7 +4,7 @@ title: Avoid Adding Modals to Other Modals or Dropdowns
 slug: avoid-modals-in-nested-contexts
 ---
 
-I've run into some patterns that raised some red flags for me lately, so I wanted to dig into it a bit more and figure out why it bothered me. I've compiled some advice, and as I test and find more examples, I'll add. The TL;DR is this: you should avoid mixing dropdowns, search boxes, and modals in a single interaction. Each pattern has its place, but combining them can create accessibility failures, cognitive overload, and usability friction. Instead, use recognized patterns (combo box, explicit advanced search links, or inline search fields) that set clear expectations and maintain accessible focus flows and expected contextual behaviors.
+I've run into some patterns that raised some red flags for me lately; one is having a modal/dialog triggered from...some other element that is already "on top" of the current page (e.g., other modals, dropdown menus, flyout panels/drawers). I've dug into it a bit more and figured out why it bothers me. It should. It should bother you, too. So, I've compiled some advice, but the TL;DR is this: you should avoid mixing dropdowns, search boxes, and modals in a single interaction. Each pattern has its place, but combining them can create accessibility failures, cognitive overload, and usability friction. Instead, use (recognized) patterns (combo box, explicit advanced search links, or inline search fields) that have clear expectations and maintain accessible focus flows and expected contextual behaviors.
 
 <!--more-->
 
@@ -141,7 +141,7 @@ Option 3: Inline Search + Optional Modal
 * Need search-first approach? → Use Inline Search + Modal.
 
 
-The thing is, there's probably _some_ way to make the weird patterns technically conformant. If that's your only goal, then this post probably isn't for you. However, if we remember that WCAG is the bare minimum base guidelines, and that accessibile experiences do require additional thoughtfulness, then I hope you found some inspiration here. 
+The thing is, there's probably _some_ way to make the weird patterns technically conformant. If that's your only goal, then this post probably isn't for you. However, if we remember that WCAG is the bare minimum base guidelines, and that accessibile experiences do require additional thoughtfulness, then I hope you found some inspiration here. I love you internet. Do better.
 
 Until next time,
 
