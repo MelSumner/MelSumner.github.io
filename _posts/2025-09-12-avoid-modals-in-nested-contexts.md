@@ -4,8 +4,6 @@ title: Avoid Adding Modals to Other Modals or Dropdowns
 slug: avoid-modals-in-nested-contexts
 ---
 
-## Summary
-
 I've run into some patterns that raised some red flags for me lately, so I wanted to dig into it a bit more and figure out why it bothered me. I've compiled some advice, and as I test and find more examples, I'll add. The TL;DR is this: you should avoid mixing dropdowns, search boxes, and modals in a single interaction. Each pattern has its place, but combining them can create accessibility failures, cognitive overload, and usability friction. Instead, use recognized patterns (combo box, explicit advanced search links, or inline search fields) that set clear expectations and maintain accessible focus flows and expected contextual behaviors.
 
 <!--more-->
