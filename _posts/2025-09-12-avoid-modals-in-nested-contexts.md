@@ -10,7 +10,7 @@ I've run into some patterns that raised some red flags for me lately; one is hav
 
 ## Scenario: Triggering a Modal from Another Modal
 
-### Accessibility Barriers
+### Accessibility Concerns
 
 * Focus management breaks down: Each modal should trap focus within itself and return focus to the triggering element when closed. Nesting modals makes it ambiguous where focus should go.
 * Screen reader confusion: Announcing a second modal while one is already active can overlap regions being read, or cause screen readers to fail to convey context clearly.
@@ -79,13 +79,13 @@ _(or as I like to call it, "Holy mixed metaphors, Batman!")_
 * Modal from that search: Adds a third, disruptive interaction.
 * Result: Unclear mental model; users don’t know what to expect.
 
-### Accessibility Pitfalls
+### Accessibility Concerns
 
 * Focus chaos: Arrow keys for dropdowns, typing for inputs, focus trap for modals = confusing mix.
 * Screen reader confusion: Menus aren’t expected to contain text inputs or open dialogs.
 * Keyboard traps: Focus restoration after closing the modal often fails.
 
-### Usability Concerns
+### Usability Issues
 
 * Expectation mismatch: Users don’t expect a search workflow hidden in a dropdown.
 * Hidden functionality: Critical functionality is tucked away in a small component.
