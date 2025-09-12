@@ -1,12 +1,15 @@
 ---
 layout: post 
 title: Avoid Adding Modals to Other Modals or Dropdowns
-slug: avoid-modals-in-nested-contexts 
+slug: avoid-modals-in-nested-contexts
+updated: September
 ---
 
 ## Summary
 
 I've run into some patterns that raised some red flags for me lately, so I wanted to dig into it a bit more and figure out why it bothered me. I've compiled some advice, and as I test and find more examples, I'll add. The TL;DR is this: you should avoid mixing dropdowns, search boxes, and modals in a single interaction. Each pattern has its place, but combining them can create accessibility failures, cognitive overload, and usability friction. Instead, use recognized patterns (combo box, explicit advanced search links, or inline search fields) that set clear expectations and maintain accessible focus flows and expected contextual behaviors.
+
+<!--more-->
 
 ## Scenario: Triggering a Modal from Another Modal
 
@@ -98,7 +101,9 @@ _(or as I like to call it, "Holy mixed metaphors, Batman!")_
 * Dropdown + “Advanced search” link: Dropdown stays simple, with an explicit link at the bottom that opens a modal if needed.
 * Inline search + optional modal: Put search on the page, with a separate “Advanced search” button.
 
-## Before/After (Redesign)
+## Redesign
+
+So let's think about ways that we could improve the accessibility and user experience here.
 
 ### Before: Dropdown + Search Box + Modal
 
@@ -114,7 +119,6 @@ Problems:
 * Focus management errors.
 * Screen reader mismatch.
 * Dropdown disappears after modal closes.
-
 
 ### After: Alternatives to Consider
 
@@ -139,7 +143,11 @@ Option 3: Inline Search + Optional Modal
 * Need lightweight options + full workflow? → Use Dropdown + Advanced Link.
 * Need search-first approach? → Use Inline Search + Modal.
 
+
+The thing is, there's probably _some_ way to make the weird patterns technically conformant. If that's your only goal, then this post probably isn't for you. However, if we remember that WCAG is the bare minimum base guidelines, and that accessibile experiences do require additional thoughtfulness, then I hope you found some inspiration here. 
+
 Until next time,
+
 Melanie
 
 
