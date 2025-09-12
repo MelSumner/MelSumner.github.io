@@ -4,7 +4,7 @@ title: Avoid Adding Modals to Other Modals or Dropdowns
 slug: avoid-modals-in-nested-contexts
 ---
 
-I've run into some patterns that raised some red flags for me lately; one is having a modal/dialog triggered from...some other element that is already "on top" of the current page (e.g., other modals, dropdown menus, flyout panels/drawers). I've dug into it a bit more and figured out why it bothers me. It should. It should bother you, too. So, I've compiled some advice, but the TL;DR is this: you should avoid mixing dropdowns, search boxes, and modals in a single interaction. Each pattern has its place, but combining them can create accessibility failures, cognitive overload, and usability friction. Instead, use (recognized) patterns (combo box, explicit advanced search links, or inline search fields) that have clear expectations and maintain accessible focus flows and expected contextual behaviors.
+I've run into some patterns that raised some red flags for me lately; one is having a modal/dialog triggered from...some other element that is already "on top" of the current page (e.g., other modals, dropdown menus, flyout panels/drawers). I've dug into it a bit more and figured out why it bothers me. So I've compiled some points to consider and the TL;DR is this: you should avoid mixing dropdowns, search boxes, and modals in a single interaction. Each pattern has its place, but combining them can create accessibility failures, cognitive overload, usability friction. Instead, use other (recognized) patterns (e.g., combo box, explicit advanced search links, or inline search fields) that have clear expectations and maintain accessible focus flows and expected contextual behaviors.
 
 <!--more-->
 
