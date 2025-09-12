@@ -2,7 +2,6 @@
 layout: post 
 title: Avoid Adding Modals to Other Modals or Dropdowns
 slug: avoid-modals-in-nested-contexts
-updated: September
 ---
 
 ## Summary
