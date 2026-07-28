@@ -3,6 +3,7 @@ layout: post
 title:  "The Story Between the Lines: An Open Letter to Crunchyroll"
 slug: open-letter-to-crunchyroll
 published: true
+updated: 2026-07-28
 ---
 
 Dear Crunchyroll,
@@ -11,17 +12,13 @@ Every story has two versions: the one its creators intended to tell, and the one
 
 I’ve been a paying subscriber since 2016.
 
-For nearly a decade, anime has been part of my weekend routine. Whenever I can, I have what I jokingly call “Anime Saturdays”; they are a chance to slow down after a very long work week, settle in with a cup of coffee, and become immersed in stories I might never have encountered otherwise. I get to spend some time in my own escape before returning to my quasi workaholic self during the week.
+For nearly a decade, anime has been part of my weekend routine. Whenever possible, Saturdays are now “Anime Saturdays”; they are a chance to slow down after long work week, settle in with a cup of coffee, and become immersed in stories I might never have encountered otherwise. I get to spend some time in my own escape before returning to my quasi-workaholic self during the week.
 
-Now, as much as I have come to enjoy it, I don’t believe anime is above criticism. Like every storytelling medium, it contains extraordinary works alongside stories that rely on misogyny, objectification, unhealthy relationships, or themes that I personally find difficult to watch. I don’t believe anime is inherently better than books, film, television, or any other medium. What keeps me coming back is that, at its best, it tells stories that are imaginative, emotionally resonant, and deeply human. Among thousands of titles, there are stories worth experiencing.
+Now, as much as I have come to enjoy it, I want to be clear that I don’t believe anime is above criticism. Like every storytelling medium, it contains extraordinary works alongside stories that rely on misogyny, objectification, unhealthy relationships, or themes that I personally find difficult to watch. I don’t believe anime is inherently better than books, film, television, or any other medium. What keeps me coming back is that, at its best, it tells stories that are imaginative, emotionally resonant, and deeply human. Among thousands of titles, there are stories worth experiencing. But, this letter isn’t about the anime industry. It’s about the experience of watching anime on Crunchyroll.
 
-That’s why I’ve remained a subscriber for over ten years.
+By profession, I’m a staff software engineer, and I specialize in digital accessibility for applications at scale. I spend my days helping teams build software that more people can use. I work on the kind of software that companies on the Fortune 50 use. I'm very good at what I do, and I have been doing it for a long time. The thing is, after enough years doing this work, accessibility becomes part of how you experience technology. I tend to more naturally notice details that many people don’t, but I don’t consider that a burden. If anything, I think it’s one of the reasons I’ve been fortunate enough to become a leader in my field.
 
-This letter isn’t about the anime industry. It’s about the experience of watching anime on Crunchyroll.
-
-By profession, I’m a staff software engineer and I specialize in digital accessibility on applications at scale. I spend my days helping teams build software that more people can use. That companies on the Fortune 50 use. The thing is, after enough years doing this work, accessibility becomes part of how you experience technology. I may more naturally notice details that many people don’t, but I don’t consider that a burden. If anything, I think it’s one of the reasons I’ve been fortunate enough to become a leader in my field.
-
-When I sit down to watch anime, though, I’m not looking for accessibility problems. I’m looking for a good story. An escape. Give me a good slice-of-life or isekai and I'm delighted! What disappoints me isn’t that I notice quality issues—it’s that they’re so distracting they interrupt my ability to become immersed in the world the creators worked so hard to build.
+When I sit down to watch anime, though, I’m not looking for accessibility problems. I’m looking for an immersive story. I want to giggle because it's silly, or cry because it's sad! What disappoints me isn’t that I _notice_ quality issues; it’s that they’re so distracting they interrupt my ability to become immersed in the world the creators worked so hard to build.
 
 The most obvious example is subtitle quality.
 
@@ -61,16 +58,16 @@ Crunchyroll occupies a unique place in making that possible. For many people out
 
 I don’t expect perfection. Localization is difficult (from both a language perspective AND a technical implementation perspective), production schedules are demanding, and mistakes will happen.
 
-I do expect a commitment to quality. I expect subtitles that earn the audience’s trust. I expect story-critical on-screen text to be translated. I expect quality assurance that catches obvious errors before episodes are released. I would even find the ability for your users to submit subtitle corrections to be a stop-gap that you commit to until you're staffing this essential area appropriately.
+I do expect a commitment to quality. I expect subtitles that earn the audience’s trust. I expect story-critical on-screen text to be translated. I expect quality assurance that catches obvious errors before episodes are released. I would even find the ability for your users to submit subtitle corrections to be an acceptable stop-gap until you're staffing this essential area appropriately.
 
 I’m writing this because I want Crunchyroll to succeed. I’ve invested so many years in your platform because I enjoy what it makes possible. You’ve introduced me and countless audiences around the world to remarkable creators and remarkable stories. That’s an achievement worth celebrating. It’s also why this is _so disappointing_!
 
 As a paying customer, I shouldn’t have to wonder whether an emotional moment lost its meaning because of a poor subtitle. I shouldn’t need to pause an episode and search online to discover what a text message or handwritten note said. I shouldn’t have to question whether my confusion is intentional, cultural, or simply the result of inconsistent localization.
 
-Those are _solvable_ technical problems with technical solution.
+These are technical problems with technical solutions.
 
 The best localization doesn’t call attention to itself. It quietly carries the audience across languages, cultures, and continents until all that’s left is the story. That’s the experience I’ve been hoping for since I subscribed in 2016, and I still believe it’s one worth striving for.
 
 I love you, do better.
 
-Until next time. -Melanie
+Until next time. -M
